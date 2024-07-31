@@ -16,7 +16,7 @@ h1{
     display: flex;
     gap: 10px;
 }
-#myinput{
+#myInput{
     width: 300px;
     padding: 10px 20px;
     border-radius: 30px;
